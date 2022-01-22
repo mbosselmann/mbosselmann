@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 # ✨ Hi! My name is Mareike! ✨
 
-🌱 I’m currently learning more about **TypeScript**.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mareike-bosselmann/)
-⚡ Fun fact: My favourite animals are 🐷🐷🐷 and 🐈🐈🐈.  
+- 🌱 I’m currently learning more about **TypeScript**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mareike-bosselmann/)
+- ⚡ Fun fact: My favourite animals are 🐷🐷🐷 and 🐈🐈🐈.  
 
+---
 
 ![Mareike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbosselmann&show_icons=true&theme=dracula)
-
