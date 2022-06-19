@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 # ✨ Hi! My name is Mareike! ✨
 
-- 🌱 I’m currently learning more about **TypeScript**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mareike-bosselmann/)
+- 💻 I'm working as a web development coach since January 2022.
+- 🎨 I used to be an art historian.
+- 👑 My pronouns are **she/ her**.
+- 🌱 I’m currently learning more about **testing**, **accessibility**, **TypeScript** and **React**.
 - ⚡ Fun fact: My favourite animals are 🐷🐷🐷 and 🐈🐈🐈.  
 
 ---
