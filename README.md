@@ -18,9 +18,17 @@ Here are some ideas to get you started:
 - 💻 I'm working as a web development coach since January 2022.
 - 🎨 I used to be an art historian.
 - 👑 My pronouns are **she/ her**.
-- 🌱 I’m currently learning more about **testing**, **accessibility**, **TypeScript** and **React**.
+- 🌱 I’m currently learning more about **TypeScript**.
 - ⚡ Fun fact: My favourite animals are 🐷🐷🐷 and 🐈🐈🐈.  
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbosselmann)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mbosselmann)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mbosselmann&theme=ayu-mirage" alt="Anurag's GitHub stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,styledcomponents,git,jest,nodejs,mongodb" alt="My Skills"></a>
+</p>
+
+<p align="center">
+    <a href="[https://skillicons.dev](https://git.io/streak-stats)"><img src="https://streak-stats.demolab.com?user=mbosselmann&theme=noctis-minimus&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak"></a>
+</p>
