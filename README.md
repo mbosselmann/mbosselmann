@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,styledcomponents,git,jest,nodejs,mongodb" alt="My Skills"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,styledcomponents,git,jest,nodejs,mongodb,graphql" alt="My Skills"></a>
 </p>
 
 <p align="center">
