@@ -1,25 +1,15 @@
-<!--
-**mbosselmann/mbosselmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Group 24](https://github.com/user-attachments/assets/04fd11f3-9cbf-429c-b1b8-59443279a62a)
 
-Here are some ideas to get you started:
+<h1 align="center"> My name is Mareike and I am a frontend developer. 👩‍💻
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# ✨ Hi! My name is Mareike! ✨
-
-- 💻 I'm working as a web development coach since January 2022.
-- 🎨 I used to be an art historian.
+**About me:**
 - 👑 My pronouns are **she/ her**.
-- 🌱 I’m currently learning more about **TypeScript**.
-- ⚡ Fun fact: My favourite animals are 🐷🐷🐷 and 🐈🐈🐈.  
+- 💡 I'm a **career changer**: my journey began in 2021 with a **web development bootcamp**.
+- 💻 Since January 2022 I have been working as a **web development coach** and **web developer**.
+- 🫀 My heart beats for **well-structured, easily written code and testing**!
+- 🎨 Before my career change, I worked as an art historian and wrote my doctoral thesis on the depiction of marked trees in early British travelogues about Australia.
+
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mbosselmann&theme=ayu-mirage" alt="Anurag's GitHub stats"></a>
