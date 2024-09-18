@@ -1,8 +1,7 @@
-![Group 24](https://github.com/user-attachments/assets/04fd11f3-9cbf-429c-b1b8-59443279a62a)
-
-<h1 align="center"> My name is Mareike and I am a frontend developer. 👩‍💻
+<h1 align="center"> ✨ Hi! Nice to meet you! ✨
 </h1>
 
+My name is Mareike and I am a frontend developer. 👩‍💻
 **About me:**
 - 👑 My pronouns are **she/ her**.
 - 💡 I'm a **career changer**: my journey began in 2021 with a **web development bootcamp**.
