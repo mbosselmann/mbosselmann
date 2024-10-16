@@ -10,7 +10,7 @@ My name is Mareike and I am a frontend developer. 👩‍💻
 🌱 **Current Learning Projects**
 
 I'm always excited to learn new things! Here are my projects I'm currently working on to expand my skills:
-- 🌿 ![Nature's Nook](https://github.com/mbosselmann/natures-nook): A plant shop prototype to dive deeper into microservices using TypeScript, React, Nest.js, Kafka and MySQL.
+- 🌿 ![Nature's Nook](https://github.com/mbosselmann/natures-nook): A plant shop prototype to dive deeper into microservices.
 - 👻 ![Haunted Canvas](https://github.com/mbosselmann/haunted-canvas): My first Angular project, an image editor for creating spooky, ghostly images. 
 - 🔥 ![Pyropoly](https://github.com/mbosselmann/pyropoly): A Next.js app to build a "Monopoly on Fire" version with the future goal to go from a single-player to a multiplayer game. 
 
