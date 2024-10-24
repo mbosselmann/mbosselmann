@@ -1,6 +1,6 @@
 ### ✨ Hi! Nice to meet you! ✨
 
-My name is Mareike and I am a frontend developer. 👩‍💻
+My name is Mareike and I am a web developer. 👩‍💻
 - 👑 My pronouns are **she/ her**.
 - 💡 I'm a **career changer**: my journey began in 2021 with a **web development bootcamp**.
 - 💻 Since January 2022 I have been working as a **web development coach** and **web developer**.
