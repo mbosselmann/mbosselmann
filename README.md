@@ -16,8 +16,3 @@ I'm always excited to learn new things! Here are my projects I'm currently worki
 
 
 Feel free to explore these projects and join me on my learning journey!
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mbosselmann" alt="Mareikes's GitHub stats"></a>
-
-<a href="[https://skillicons.dev](https://git.io/streak-stats)"><img src="https://streak-stats.demolab.com?user=mbosselmann&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak"></a>
-
